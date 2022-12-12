@@ -1,0 +1,17 @@
+a:link{
+	background-color: #b2ff99;/* verde clarinho */
+	color: blue;
+}
+a:visited{
+	background-color: #ffff85;/* amerelo clarinho */
+	color: red;
+}
+/*Quando o mouse fica parado em cima*/
+a:hover{ 
+	background-color: #77704D;
+	color: green;
+}
+a:active{
+	background-color: #ff704D;
+	color: gray;
+}
